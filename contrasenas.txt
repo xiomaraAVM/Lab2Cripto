@@ -1,0 +1,12 @@
+password
+abc123
+password123
+abc1234
+123456
+admin
+admin123
+qwerty
+letmein
+p@ssword
+root
+dvwa
